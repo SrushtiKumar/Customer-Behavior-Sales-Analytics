@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:00BFFF&height=180&section=header&text=Customer%20Behavior%20%26%20Sales%20Analytics&fontSize=42&fontColor=ffffff"/>
-
 # 📊 Customer Behavior & Sales Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-0F4C81?style=for-the-badge\&logo=python\&logoColor=white)
@@ -32,7 +30,7 @@ The dataset was cleaned and prepared using Python, analyzed through SQL, and vis
 
 ### 📈 Sales Overview Dashboard
 
-<img src="dashboard_sales.png" width="900"/>
+<img src="Preview-images/dashboard_sales.png" width="900"/>
 
 **Insights Included**
 
@@ -48,7 +46,7 @@ The dataset was cleaned and prepared using Python, analyzed through SQL, and vis
 
 ### 👥 Customer Behavior Dashboard
 
-<img src="dashboard_customer_behavior.png" width="900"/>
+<img src="Preview-images/dashboard_customer_behavior.png" width="900"/>
 
 **Insights Included**
 
