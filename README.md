@@ -30,7 +30,9 @@ The dataset was cleaned and prepared using Python, analyzed through SQL, and vis
 
 ### 📈 Sales Overview Dashboard
 
-<img src="./Preview_images/dashboard_sales.PNG" width="600"/>
+<div align="center">
+<img src="./Preview_images/dashboard_sales.PNG" width="750"/>
+</div>
 
 **Insights Included**
 
@@ -46,7 +48,9 @@ The dataset was cleaned and prepared using Python, analyzed through SQL, and vis
 
 ### 👥 Customer Behavior Dashboard
 
-<img src="./Preview_images/dashboard_customer_behavior.PNG" width="600"/>
+<div align="center">
+  <img src="./Preview_images/dashboard_customer_behavior.PNG" width="750"/>
+</div>
 
 **Insights Included**
 
