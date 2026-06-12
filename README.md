@@ -112,10 +112,10 @@ Customer-Behavior-Analytics/
 │
 ├── Customer_Behavior_Dashboard.pbix
 │   └── Power BI dashboard file
-│
-├── dashboard_sales.png
-│
-├── dashboard_customer_behavior.png
+|
+├── Preview_images
+│   └── dashboard_customer_behavior.PNG
+|   └── dashboard_sales.PNG
 │
 └── README.md
 ```
