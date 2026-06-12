@@ -129,15 +129,6 @@ Customer-Behavior-Analytics/
 
 ---
 
-## 🚀 Future Enhancements
-
-* Customer Segmentation using Machine Learning
-* Sales Forecasting Models
-* Automated Dashboard Refresh
-* Customer Lifetime Value Analysis
-* Recommendation System Integration
-
----
 
 ## 📝 License
 
